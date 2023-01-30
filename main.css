@@ -47,7 +47,8 @@ div.hero {
 
 h1.hero {
   font-family: 'Alice',Georgia,"Times New Roman",serif;
-  font-size: 120px;
+  /*font-size: 120px;*/
+  font-size: 8vw;
   font-weight: 700;
   color: #84aece!important;
   letter-spacing: -3px;
